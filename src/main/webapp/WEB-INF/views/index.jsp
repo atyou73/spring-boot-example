@@ -11,7 +11,7 @@
      Spring Example Index JSP web page
    </h2>
    <p>
-   Test1
+   Test2
    </p>
    <p>
    Time/Date: ${time}
